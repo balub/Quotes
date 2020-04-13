@@ -13,7 +13,7 @@ Install the dependencies and start the server.
 ```sh
 pip install -r requirements
 ```
-###Screenshots
+### Screenshots
 ![quote 1 ](https://i.imgur.com/4i6Og24.png?1)
 ![quote 2 ](https://i.imgur.com/EuEL6M4.png?2)
 ![quote 3 ](https://i.imgur.com/MjVm7kH.png?1)
