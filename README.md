@@ -13,12 +13,12 @@ Install the dependencies and start the server.
 ```sh
 pip install -r requirements
 ```
+###Screenshots
+![quote 1 ](https://i.imgur.com/4i6Og24.png?1)
+![quote 2 ](https://i.imgur.com/EuEL6M4.png?2)
+![quote 3 ](https://i.imgur.com/MjVm7kH.png?1)
 
-### Important
+### Notes
 
-- Run main.py in admin mode.
-- Ensure that the file being uploaded has no spaces, no special characters etc
-- You can use [Postman](https://www.postman.com/)
-- Refer [To this link]() to figure out how to send files in Postman
-- If you want to save any file response change the drop down in "Send" to "Send and Download"
-
+- Built using [Flask](https://flask.palletsprojects.com/en/1.1.x/)
+- Using API from [This Repo](https://github.com/lukePeavey/quotable) to fetch the quotes
