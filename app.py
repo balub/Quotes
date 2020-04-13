@@ -7,7 +7,7 @@ app = Flask(__name__)
 @app.route("/")
 def index():
     quote = Quote.getQuote()
-    return render_template('index.html', quote=quote['content'], author=quote['author'])
+    return render_template('index.html', title="Quote", quote=quote['content'], author=quote['author'])
 
 
 if __name__ == "__main__":
