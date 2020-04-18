@@ -9,3 +9,5 @@ def getQuote():
     conv_json = json.dumps(r.text)
     return r.json()
 
+
+
